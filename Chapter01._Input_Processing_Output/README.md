@@ -83,3 +83,7 @@ Notice there are three types of symbols in the flowchart: ovals, parallelograms,
 - Rectangles are used as processing symbols. They represent steps in which the program performs some process on data, such as a mathematical calculation.
 
 The symbols are connected by arrows that represent the “flow” of the program. To step through the symbols in the proper order, you begin at the Start terminal and follow the arrows until you reach the End terminal.
+
+## 1.2. Input, Processing, and Output
+
+> ***CONCEPT:*** Input is data that the program receives. When a program receives data, it usually processes it by performing some operation with it. The result of the operation is sent out of the program as output.
